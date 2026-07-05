@@ -1,0 +1,22 @@
+{
+  "wheel_id": 69,
+  "slug": "financebrokercentralcoast-101",
+  "project": "home-loans-central-coast-comparison-financebrokercentralcoast-101",
+  "parent_t1_ref": "financebrokercentralcoast-001",
+  "node_role": "feeder",
+  "money_target": "financebrokercentralcoast.com.au",
+  "primary_kw": "home loans central coast comparison",
+  "intended_url": "https://sitesau.github.io/home-loans-central-coast-comparison-financebrokercentralcoast-101/",
+  "links": [
+    {
+      "target_url": "https://home-loans-central-coast-financebrokercentralcoast-150.vercel.app/",
+      "anchor": "home loans central coast",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://home-loans-central-coast-financebrokercentralcoast-150.vercel.app/",
+      "anchor": "home loans central coast",
+      "rel": "follow"
+    }
+  ]
+}
