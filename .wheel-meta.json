@@ -1,21 +1,17 @@
 {
-  "wheel_id": 99,
+  "wheel_id": 69,
+  "structure": "umbrella",
   "slug": "financebrokercentralcoast-101",
-  "project": "refinancing-central-coast-comparison-f-101",
-  "parent_t1_ref": "financebrokercentralcoast-002",
+  "project": "home-loans-central-coast-comparison-f-101",
+  "parent_t1_ref": "financebrokercentralcoast-001",
   "node_role": "feeder",
   "money_target": "financebrokercentralcoast.com.au",
-  "primary_kw": "refinancing central coast comparison",
-  "intended_url": "https://sitesau.github.io/financebrokercentralcoast-101/",
+  "primary_kw": "home loans central coast comparison",
+  "intended_url": "https://aumedia.neocities.org/home-loans-central-coast-comparison-f-101/index.html",
   "links": [
     {
-      "target_url": "https://refinancing-central-coast-f-150.pages.dev/",
-      "anchor": "refinancing central coast",
-      "rel": "follow"
-    },
-    {
-      "target_url": "https://refinancing-central-coast-f-150.pages.dev/",
-      "anchor": "refinancing central coast",
+      "target_url": "https://home-loans-central-coast-f-150.surge.sh/",
+      "anchor": "home loans central coast",
       "rel": "follow"
     }
   ]
